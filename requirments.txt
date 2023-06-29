@@ -1,0 +1,4 @@
+## pip install opencv-python mediapipe
+## or: pip install -r requirments.txt
+mediapipe
+opencv-python
